@@ -278,7 +278,7 @@ def osint_email_batch_investigation(email_list):
     
     return results
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     target_email = input("\033[1;32m─(\033[0m\033[1;31m?\033[0m\033[1;32m)─\033[0m\033[1;31m Masukkan Alamat Email Target\033[0m\033[1;32m :\033[0m\033[1;33m ")
     
     print("")
